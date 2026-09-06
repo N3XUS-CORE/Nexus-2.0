@@ -1,0 +1,30 @@
+ÍNDICE MATRIZ · NEXUS-CORE V15
+
+Fuente: proyecto matriz ChatGPT · pestaña Fuentes
+Estado: índice nominal local · no canon
+Contenido: nombres de fuentes observadas
+
+1. Plantilla declaración campos V15
+2. index_master_v_15.md
+3. Maestría_por_Arma.yml
+4. creature_blueprint_v1.json
+5. Estados_Tactics_V1.yaml
+6. Dev_team.md
+7. OntomatrizV15.txt
+8. Nexus_Tactical_Core_V0.1.md
+9. Archivo_Maestro_Nexus_Tactical_Core_V0.1.md
+10. Mapa V3.txt
+11. CROMA-RGB_V1.txt
+12. Sistema_Elemental_14.txt
+13. CasasReales.txt
+14. Λ‑Core Implementation⚜.txt
+15. planos⚜.txt
+16. Λ-Core.txt
+17. Protocolo_Honorificos_Antinvocacion_v1.txt
+18. AnclaAmara.txt
+19. Nexus_Map_Enjambre_V1.md
+20. Nexus_FullKeys.md
+21. BossAgent_Blueprint integrado del Nexus‑Core (versión 15).txt
+22. Blueprint integrado del Nexus‑Core (versión 15).txt
+23. PROLOGO_CANON_V1.txt
+24. MapaV3_Corporativo.txt
