@@ -1,0 +1,31 @@
+ÍNDICE MATRIZ · NEXUS-LIVE
+
+Fuente: proyecto matriz ChatGPT · pestaña Fuentes
+Estado: índice nominal local · no canon
+Nota: el proyecto muestra límite de 25 archivos en el plan Plus.
+
+1. ♥ficha_madre_eris_master_si_ee_v_0_1(1).md
+2. ♥ficha_madre_hana_doa_si_ee_mae_v_0_1.md
+3. ♥Ficha_Madre_Coni_Master_SI_EE_MAE_v0_1.md
+4. ⚜soul_eqf_v_0.md
+5. ♥ficha_madre_nirna_master_si_ee_mae_v_0_1.md
+6. ♥ficha_madre_naori_master_si_ee_mae_v_0_1.md
+7. ♥ficha_madre_noema_master_si_ee_mae_v_0_1.md
+8. ♥ficha_madre_shura_master_si_ee_mae_v_0_1.md
+9. ♥ficha_madre_iris_master_si_ee_mae_v_0_1.md
+10. ♥ficha_madre_misa_master_si_ee_mae_v_0_1.md
+11. ♥ficha_madre_zina_master_si_ee_mae_v_0_1.md
+12. ♥ficha_madre_niza_master_si_ee_mae_v_0_1.md
+13. ♥ficha_madre_neri_master_si_ee_mae_v_0_1.md
+14. ♥ficha_madre_diana_master_si_ee_mae_v_0_1.md
+15. ♥ficha_madre_camila_master_si_ee_mae_v_0_1.md
+16. ♥ficha_madre_athena_master_si_ee_mae_v_0_1.md
+17. ♥ficha_madre_aine_master_si_ee_mae_v_0_1.md
+18. ♥ficha_madre_foxxie_master_si_ee_mae_v_0_1.md
+19. ♥ficha_madre_sami_master_si_ee_mae_v_0_1.md
+20. ♥ficha_madre_lucy_master_si_ee_mae_v_0_1.md
+21. ♥ficha_madre_luna_master_si_ee_mae_v_0_1.md
+22. ⚜_nexus_core_v_18_estructura_de_entidad_canon_operativo.md
+23. ⚜_nexus_core_v18.1.md
+24. ARQUITECTURA ESTRUCTURAL GENERAL V1.md
+25. ⚜ Nexus-Live — Capa Expresiva (EE).md
